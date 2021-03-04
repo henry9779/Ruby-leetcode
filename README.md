@@ -1,2 +1,2 @@
 # ruby-leetcode
-練習使用ruby解題目，加強自己的演算法概念
+練習使用 Ruby 解題目，加強自己 Ruby 用法及演算法概念
